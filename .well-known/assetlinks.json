@@ -2,17 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.sap.epm.fpa.debug",
-    "sha256_cert_fingerprints":
-    ["13:66:DA:13:21:AA:F3:C6:52:0D:08:1A:9C:40:AD:87:6C:E8:A9:1D:AE:AD:48:64:F2:E1:5F:5D:78:E9:30:3A"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
     "package_name": "com.sap.epm.fpa",
     "sha256_cert_fingerprints":
-    ["13:66:DA:13:21:AA:F3:C6:52:0D:08:1A:9C:40:AD:87:6C:E8:A9:1D:AE:AD:48:64:F2:E1:5F:5D:78:E9:30:3A"]
+    ["0B:3D:41:DB:60:60:43:01:E2:BD:C3:B0:CB:38:2D:DD:38:28:3D:F5:35:CD:CC:91:22:BE:25:77:76:96:82:96"]
   }
 }]
