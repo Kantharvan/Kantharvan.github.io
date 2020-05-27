@@ -2,6 +2,15 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.sap.epm.fpa.debug",
+    "sha256_cert_fingerprints":
+    ["0B:3D:41:DB:60:60:43:01:E2:BD:C3:B0:CB:38:2D:DD:38:28:3D:F5:35:CD:CC:91:22:BE:25:77:76:96:82:96"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.sap.epm.fpa",
     "sha256_cert_fingerprints":
     ["0B:3D:41:DB:60:60:43:01:E2:BD:C3:B0:CB:38:2D:DD:38:28:3D:F5:35:CD:CC:91:22:BE:25:77:76:96:82:96"]
